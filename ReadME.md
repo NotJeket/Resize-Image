@@ -4,7 +4,8 @@ This is a Python script that resizes images in a source folder and saves them to
 
 **Diagram**
 
-![](Aspose.Words.7ad9b03e-114b-487a-bb0d-1d2aa25cb5de.001.png)
+![Aspose Words 7ad9b03e-114b-487a-bb0d-1d2aa25cb5de 001](https://user-images.githubusercontent.com/37781149/233143881-63043862-2e0a-4ad0-9650-8e00cf922cbf.png)
+
 
 **Installation**
 
